@@ -1,0 +1,8 @@
+displayName: April Fools Menu Music
+name: april-fools
+author: Mythril
+description: Replaces the regular menu music with the menu music present in the 2022 April Fools update of Mindustry.
+version: 1
+minGameVersion: 146
+hidden: true
+repo: Mythril382/April-Fools-Menu-Music
